@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Spotify Genre Playlist*
+# Web Development Project 1 - *Spotify Music Genre*
 
 Submitted by: **Brian Huynh**
 
@@ -26,10 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/1e9SPwM' title='Spotify Music Genre' width='' alt='Spotify Music Genre' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/1e9SPwM"  ><a href="//imgur.com/a/1e9SPwM">Spotify Music Genre</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
